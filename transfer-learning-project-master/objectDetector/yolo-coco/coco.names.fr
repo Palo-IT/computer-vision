@@ -1,0 +1,80 @@
+individu
+bicyclette
+voiture
+moto
+aéroplane
+autobus
+train
+camion
+embarcation
+feu de signalisation
+borne incendie
+panneau stop
+parcomètre
+paillasse
+oiseau
+chat
+chien
+cheval
+mouton
+baleine
+éléphant
+donner
+zèbre
+girafe
+sac à dos
+parapluie
+sac à main
+nouer
+valise
+frisbee
+skis
+planche à neige
+ballon de sport
+cerf-volant
+batte de baseball
+gant de baseball
+planche à roulettes
+planche de surf
+raquette de tennis
+embouteiller
+verre de vin
+gobelet
+embranchement
+couteau
+cuillère
+jatte
+banane
+pomme
+sandwich
+orange
+brocoli
+carotte
+hot-dog
+pizza
+beigne
+pâtisserie
+présider
+banquette
+plante en pot
+enfoncer
+table
+cabinet de toilette
+moniteur tv
+ordinateur
+souris
+éloigné
+clavier
+téléphone portable
+micro-ondes
+four
+grille-pain
+sombrer
+frigidaire
+recueil
+chronométrer
+potiche
+paire de ciseaux
+ours en peluche
+sèche-cheveux
+brosse à dents

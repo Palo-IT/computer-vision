@@ -1,7 +1,7 @@
 # transfer-learning-project
 
 ### 1 : YOLOV3 WEIGHTS
-Download yolov3 weights file and save it in the folder 'objectDetector/yolo-coco'
+Download yolov3 weights file and save it in the folder 'objectDetector/yolo-coco' (or fuse all zips into one yolov3.weights before use)
 - https://pjreddie.com/media/files/yolov3.weights
 
 ### 2 : Set the good chrome navigator driver : Download the same driver version that chrome driver on your laptop from https://chromedriver.chromium.org/downloads

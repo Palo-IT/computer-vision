@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% for img in data %}
+<p>{{ img }}</p>
+<img src={{ img }} width="200" height="200">
+<a style="color: red; display: inline-block" href={{ data[img][0] }}>{{ data[img][0] }}</a>
+{% endfor %}
+</body>
+</html>
